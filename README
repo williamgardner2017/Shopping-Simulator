@@ -1,0 +1,24 @@
+In this file:
+
+1. Explain briefly what your project does and how it works.
+Shopping Simulator. Well the initial goal of this game is to go around a store and find certain items on your checklist.
+However, the game in its current situation lets you free roam around a 1980s era department store (presumably Sears).
+It also tells your current location in the store.
+
+2. List the names of the classes in your project.
+Store Floor, Departments, Protagonist, Checklist, Locator, Radio
+
+3. If working with partner(s), indicate briefly how you divided up the work,
+   that is, who did what?
+I was the only one that worked on the project.
+
+4. List the modules (libraries) that you used (the things in IMPORT statements).
+    Random, Pygame, sys, Math
+
+5. Briefly list what things in the project are beyond what you learned
+   from the regular classwork in CSSE 120.  Include the major PyGame features
+   that you used in this list.
+   One this that I learned that was beyond the regular classwork was making the background move.
+   This made it feel as if the protagonist was moving.
+   Another thing was creating a locator. What made this so difficult was doing the math of where the
+   hitbox was of the department. It could tell if the protagonists coordinates were in the box or not.

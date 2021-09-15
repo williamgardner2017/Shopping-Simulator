@@ -1,0 +1,57 @@
+
+PUT YOUR NAME HERE: John William Gardner
+
+NOTE: If you are working by yourself (no teammates), then use this file
+(self_reflection_1.txt).  If you are working with teammates, then the order
+of the names in your team repository determines who uses which of the three
+self_reflection_X.txt files, as per this example:
+   For team     csse120-202110-andersm3-morrisnc-sheerimm
+     -- anderssm3 must use   self_reflection_1.txt
+     -- morrisnc  must use   self_reflection_2.txt
+     -- sheerimm  must use   self_reflection_3.txt
+Another example:
+   For team     csse120-202101-kintnecm-rams-harristj
+     -- kintnecm  must use   self_reflection_1.txt
+     -- rams      must use   self_reflection_2.txt
+     -- harristj  must use   self_reflection_3.txt
+
+Then answer the following questions.
+Answers can be BRIEF, but we expect them to be THOUGHTFUL answers.
+
+1.  Explain, in a sentence or two, something that SURPRISED you
+    after you began working on your project.
+
+    Something that suprised me was the amount of work that I thought initially and the amount of work in the end.
+    At first, I felt that my game could be done quite easily. However, there were some components that were much more
+    challenging than others. For instance, the creation of the locator required me to get the help of Ms. Sana. In the
+    end though, all the pieces to the game were satisfying to complete.
+
+2.  Identify something that you would have done DIFFERENTLY in your project,
+    with hindsight.  Then explain, in a short paragraph, how you did that
+    something (in your actual project), how you would have done it differently,
+    why you would do it differently, and how you would encourage yourself
+    to do it (or its equivalent) differently in future projects.
+
+    One thing I might have done differently would have to be the moving of the character instead of the map. If I chose
+    to move the character on the window instead of the background, writing my code might have been much easier. When
+    working on moving the background, there were many challenges that arose, including but not limited to: the map
+    boarder sometimes shifting to the left or right, the hitbox of the departments shifting to different position, etc.
+    While I might do this instead, there was also something satisfying about solving these problems. It is great to see
+    it all come together in the semi-finished product. I might even be better at using this method now!
+
+3.  Identify something that you are particularly PROUD of your work in your
+    project.  Explain, in a short paragraph, what it is, why you are proud
+    of it, and how you will encourage yourself to do it (or its equivalent)
+    similarly in future projects.
+
+    Three things that I am proud of are the creation of my own sprites, the creation of the locator, and the movement
+    of the map. When starting this project, I had no idea that I would need to take time to make my own custom sprites.
+    However, I came to realize that there was not much out on the internet to help me. So for three days, I would be
+    creating my own pixel art to place in my store. And in the end, I feel really proud of it! While some items could
+    have been scaled down for a more realistic look, I believe it turned out well. I am also proud of the locator. At
+    first, I thought that placing hitboxes for each department would be easy. However, I realized that the coordinate
+    system to my map was mirrored. Therefore, a maority of the map was in the negatives. I sat and looked at my screen
+    for over two hours. Then I got the help of Ms. Sana, and we were able to solve it after two hours. I could have not
+    done it without her! Finally, I was proud of the movement of the map. While this factor created problems, as stated
+    it allowed me to get a better understanding of Python. In conclusion, I am proud of my sprites, the locator, and the
+    background map. I would definitely use all three in a future project.
